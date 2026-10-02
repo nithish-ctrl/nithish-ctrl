@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me 
+- I am Nithish Ravichandran, I practice competitive programming, build AI Agents, and study System design. 
+- Currently deepening my knowledge of Data Structures & Algorithms, and exploring the fields of hardware by learning FPGA and VHDL.
+- Open to collaborating on meaningful open-source projects.
+- Technical interests include python, Langchain, Langgraph, Pytorch, Tensorflow and problem solving. 
