@@ -28,28 +28,15 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 ---
 
 ### 🛠️ Tech Stack & Skills
-<!-- Localized badges rendered natively via Shields.io without rate-limiting -->
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![Python](https://shields.io)
+<!-- Hardcoded clean text blocks to list your stack without crashing servers -->
+* **Frontend:** HTML5, CSS3, JavaScript, React
+* **Backend & Scripting:** Python
 
 ---
 
 ### 🌐 Connect With Me
-<!-- Clickable badges to link your profiles -->
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Twitter](https://shields.io)](https://twitter.com)
-
----
-
-### 📈 Profile Metrics
-<!-- High-availability, native streak configuration tracker -->
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Streak Stats" height="150" />
-</p>
-
+* 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* 🐦 **Twitter:** [://twitter.com](https://twitter.com)
 
 ![Snake animation](../../blob/output/github-contribution-grid-snake.svg)
 
