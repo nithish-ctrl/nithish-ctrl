@@ -38,6 +38,3 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 
 
 
-
-
-
