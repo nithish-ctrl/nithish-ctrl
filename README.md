@@ -39,9 +39,8 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 ---
 
 ### 🌐 Connect With Me
-* 💼 **LinkedIn:** [://linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/nithish-ravi/))
+* 💼 **LinkedIn:** [://linkedin.com]((https://www.linkedin.com/in/nithish-ravi/))
 
-![Snake animation](../../blob/output/github-contribution-grid-snake.svg)
 
 
 
