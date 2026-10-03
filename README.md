@@ -27,7 +27,8 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 
 
 
-![Snake animation](https://githubusercontent.com)
+<img src="https://githubusercontent.com" alt="Snake animation" />
+
 
 
 
