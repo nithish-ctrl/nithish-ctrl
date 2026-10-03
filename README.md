@@ -21,7 +21,7 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 - Technical interests include python, Langchain, Langgraph, Pytorch, Tensorflow and problem solving. 
 
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 <!-- This HTML table places your stats card and top languages chart neatly side-by-side -->
 <table>
   <tr>
