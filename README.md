@@ -27,16 +27,19 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 <!-- Hardcoded clean text blocks to list your stack without crashing servers -->
-* **Frontend:** HTML5, CSS3, JavaScript, React
-* **Backend & Scripting:** Python
+**Languages:** Python, C++, SQL (PostgreSQL, MySQL), Rust (Learning)
+**AI & LLM:** LangChain, LangGraph, RAG Pipelines, LLM APIs, Agentic AI, Local LLMs (Llama.cpp), Generative AI, Hugging Face
+**ML / Deep Learning:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib
+**Databases & Vector Stores:** FAISS, Vector DB, Chroma, PostgreSQL, MySQL
+**Tools:** Git, GitHub, VS Code
+**Areas of Interest:** Agentic AI, RAG Systems, Computer Vision, Robotics, Generative AI, Predictive Modeling, NLP, SQL, FPGA
 
 ---
 
 ### 🌐 Connect With Me
 * 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* 🐦 **Twitter:** [://twitter.com](https://twitter.com)
 
 ![Snake animation](../../blob/output/github-contribution-grid-snake.svg)
 
