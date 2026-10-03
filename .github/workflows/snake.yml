@@ -19,18 +19,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generates the custom Vampire Theme Snake
+      # Generates the custom Vampire Theme Snake safely into a /dist folder
       - name: Generate Vampire Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake-vampire.svg?color_snake=#8B0000&color_dots=#1a1a1a,#4A0E17,#720917,#A61C2E,#D90429
+            dist/github-contribution-grid-snake-vampire.svg?color_snake=#8B0000&color_dots=#1a1a1a,#4A0E17,#720917,#A61C2E,#D90429
           
+      # Pushes the /dist folder assets safely to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
