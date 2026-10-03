@@ -21,8 +21,9 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 - Technical interests include python, Langchain, Langgraph, Pytorch, Tensorflow and problem solving. 
 
 
-### 🐍 My Contributions Snake
-![Snake animation](../../blob/output/github-contribution-grid-snake.svg)
+### 🧛 My Vampire Contributions Snake
+![Vampire Snake](../../blob/output/github-contribution-grid-snake-vampire.svg)
+
 
 ---
 
