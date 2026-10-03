@@ -21,7 +21,12 @@ I am Nithish Ravichandran, I practice competitive programming, build AI Agents, 
 - Technical interests include python, Langchain, Langgraph, Pytorch, Tensorflow and problem solving. 
 
 
-
+### Tech Stack & Skills
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Python](https://shields.io)
 
 
 
